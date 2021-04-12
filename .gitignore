@@ -1,0 +1,7 @@
+﻿.idea
+node_modules
+playground
+*.env
+mandatory2.iml
+package.json
+package-lock.json
