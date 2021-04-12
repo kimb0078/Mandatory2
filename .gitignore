@@ -5,3 +5,4 @@ playground
 mandatory2.iml
 package.json
 package-lock.json
+*.iml
