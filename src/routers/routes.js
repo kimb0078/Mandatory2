@@ -7,7 +7,7 @@ const router = new express.Router()
 const myDirectory = process.env.ROOT_DIRECTORY
 
 
-const header = fs.readFileSync(myDirectory + '/views/header.html'.toString())
+const header = fs.readFileSync(myDirectory + '/public/views/header.html'.toString())
 
 
 //HTTP GET request to fetch login page, which is the home page
